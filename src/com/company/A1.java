@@ -1,7 +1,7 @@
 package com.company;
 
-public class A {
+public class A1 {
     public static void main(String[] args) {
-        System.out.print("我是A......dev");
+        System.out.print("AA");
     }
 }
